@@ -1,0 +1,3 @@
+pyepics
+xlsxwriter
+distro
